@@ -1,2 +1,2 @@
-# datasciencecoursera
-assignment1
+## this is a markdown file
+*assignment1
